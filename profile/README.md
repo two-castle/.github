@@ -1,5 +1,7 @@
 ## Hi there 👋
+탁지'성', 김학'성'
 
+두개의 성 -> two castle
 <!--
 
 **Here are some ideas to get you started:**
