@@ -53,5 +53,5 @@
 
 | Name       | Role                    | GitHub                                     |
 | :--------- | :---------------------- | :----------------------------------------- |
-| `팀원 이름`  | `Backend Developer`     | `[@github-id](https://github.com/id)`      |
-| `팀원 이름`  | `Flutter Developer`     | `[@github-id](https://github.com/id)`      |
+| `김학성`  | `Backend Developer`     | `[@github-id](https://github.com/id)`      |
+| `탁지성`  | `Flutter Developer`     | `[@github-id](https://github.com/id)`      |
