@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Our Main Project: Shift Planner
+## 🚀 Shift Planner
 
 **Shift Planner**는 복잡한 근무 스케줄을 손쉽게 관리할 수 있도록 돕는 서비스입니다.
 
