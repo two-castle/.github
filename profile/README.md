@@ -53,5 +53,5 @@
 
 | Name       | Role                    | GitHub                                     |
 | :--------- | :---------------------- | :----------------------------------------- |
-| `김학성`  | `Backend Developer`     | `[https://github.com/haksung59]: https://github.com/haksung59`      |
-| `탁지성`  | `Flutter Developer`     | `[https://github.com/jiseongTak]: https://github.com/jiseongTak`      |
+| `김학성`  | `Backend Developer`     | [https://github.com/haksung59]: https://github.com/haksung59      |
+| `탁지성`  | `Flutter Developer`     | [https://github.com/jiseongTak]: https://github.com/jiseongTak      |
