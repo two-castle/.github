@@ -43,7 +43,6 @@
 | **Database** | `MySql`, `Spring Data JPA` |
 | **Security** | `Spring Security`, `JWT`             |
 | **State Management** | `Riverpod`, `Freezed` |
-| **Networking** | `Dio` |
 | **Social Login** | `Kakao`, `Google` |
 | **Optimizer** | `Google OR-Tools` |
 | **API Docs** | `Swagger` |
